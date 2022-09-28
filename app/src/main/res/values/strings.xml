@@ -43,4 +43,11 @@
         libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
         vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
     </string>
+    <string name="enter_phone_number_to_receive_verification_code">Enter Phone Number to receive verification code</string>
+    <string name="create_account">Create Account</string>
+    <string name="log_in">Log In</string>
+    <string name="already_a_member">Already a member?</string>
+    <string name="phone_number">Phone number</string>
+    <string name="verification_code">Code</string>
+    <string name="send">Send</string>
 </resources>
