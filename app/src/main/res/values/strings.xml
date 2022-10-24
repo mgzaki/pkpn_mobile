@@ -50,4 +50,6 @@
     <string name="phone_number">Phone number</string>
     <string name="verification_code">Code</string>
     <string name="send">Send</string>
+    <string name="login_continue">Continue</string>
+    <string name="zeroes">000000</string>
 </resources>

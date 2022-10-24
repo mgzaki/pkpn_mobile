@@ -1,6 +1,8 @@
-package com.pikipin.pkpn_mobile.network.login
+package com.pikipin.pkpn_mobile.network.registration.verify
 
-data class LoginResponse(
+import com.pikipin.pkpn_mobile.network.registration.Body
+
+data class SendVerificationCodeResponse(
     val body: Body,
     val message: String
 )

@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="pkpn_main">#0E79B2</color>
+    <color name="pkpn_main_dark">#2E2D4D</color>
     <color name="colorPrimary">#1976D2</color>
     <color name="colorPrimaryDark">#1565C0</color>
     <color name="colorPrimaryLight">#1E88E5</color>
     <color name="colorAccent">#FF4081</color>
-    <color name="colorAccentDark">#F50057</color>
-    <color name="colorAccentLight">#FF80AB</color>
+    <color name="colorAccentDark">#0A2463</color>
+    <color name="colorAccentLight">#FFFAFF</color>
 
     <color name="overlay_dark_5">#0C000000</color>
     <color name="overlay_dark_10">#1A000000</color>

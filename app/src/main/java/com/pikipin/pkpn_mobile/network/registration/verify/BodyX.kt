@@ -1,4 +1,4 @@
-package com.pikipin.pkpn_mobile.network.login
+package com.pikipin.pkpn_mobile.network.registration.verify
 
 data class BodyX(
     val `$fault`: String,

@@ -3,9 +3,9 @@ package com.pikipin.pkpn_mobile.di
 import android.content.Context
 import com.google.gson.GsonBuilder
 import com.pikipin.pkpn_mobile.network.BaseUrls.Companion.LOGIN_BASE_URL
-import com.pikipin.pkpn_mobile.network.login.ILoginRepository
-import com.pikipin.pkpn_mobile.network.login.LoginRepository
-import com.pikipin.pkpn_mobile.network.login.LoginService
+import com.pikipin.pkpn_mobile.network.registration.ILoginRepository
+import com.pikipin.pkpn_mobile.network.registration.LoginRepository
+import com.pikipin.pkpn_mobile.network.registration.LoginService
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

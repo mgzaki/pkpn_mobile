@@ -1,4 +1,4 @@
-package com.pikipin.pkpn_mobile.network.login
+package com.pikipin.pkpn_mobile.network.registration
 
 data class Metadata(
     val attempts: Int,

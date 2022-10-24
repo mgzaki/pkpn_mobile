@@ -5,5 +5,15 @@
         <item name="android:navigationBarColor">@android:color/transparent</item>
         <item name="android:statusBarColor">@android:color/transparent</item>
         <item name="android:windowLightStatusBar">?attr/isLightTheme</item>
+        <item name="backgroundColor">@color/pkpn_main</item>
+        <!--   color for the app bar and other primary UI elements -->
+        <item name="colorPrimary">@color/red_300</item>
+
+        <!--   a darker variant of the primary color, used for
+               the status bar (on Android 5.0+) and contextual app bars -->
+        <item name="colorPrimaryDark">@color/pkpn_main_dark</item>
+
+        <!--   a secondary color for controls like checkboxes and text fields -->
+        <item name="colorAccent">@color/colorAccent</item>
     </style>
 </resources>

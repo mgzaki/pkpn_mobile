@@ -1,4 +1,4 @@
-package com.pikipin.pkpn_mobile.network.login
+package com.pikipin.pkpn_mobile.network.registration
 
 data class Body(
     val `$metadata`: Metadata,
